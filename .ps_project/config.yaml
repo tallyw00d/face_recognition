@@ -7,4 +7,4 @@ worker:
   machine-type: "P5000"
   dockerfile: Dockerfile.gpu
     use: true
-    path: "./Dockerfile.gpu"
+    path: "./docker/Dockerfile.gpu"
